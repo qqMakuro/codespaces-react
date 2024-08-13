@@ -29,3 +29,16 @@
 .small {
   font-size: 0.75rem;
 }
+
+.media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.social-media-icon {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+
+}
